@@ -17,7 +17,6 @@ public class Solution {
                 .collect(toList());
 
         Result.miniMaxSum(arr);
-
         bufferedReader.close();
     }
 }
